@@ -1,8 +1,9 @@
 # FDD-X
 ### Timex FDD 3000 clone with Mini-ITX format board
-© 2023 pear
+Â© 2023 pear
 
 Date: June 7, 2023
+![FDD-X](/Docs/FDDXview.jpg)
 
 The board is the third revision of the [FDD35] design. Includes:
 * Zilog Z80 4.0/8.0 MHz CPU,
