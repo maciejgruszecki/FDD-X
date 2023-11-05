@@ -5,7 +5,7 @@
 Date: June 7, 2023
 ![FDD-X](/Docs/FDDXview.jpg)
 
-The board is the third revision of the [FDD35] design. Includes:
+The board is the third revision of the [FDD35](https://github.com/maciejgruszecki/FDD35) design. Includes:
 * Zilog Z80 4.0/8.0 MHz CPU,
 * Xilinx XC9572-PC84 CPLD,
 * WD1772 floppy disk controller,
@@ -15,7 +15,7 @@ The board is the third revision of the [FDD35] design. Includes:
 * two independent channels for FDD drives,
 * support for up to 4 FDD drives
 * two RS-232 serial ports,
-* compatible with M-397 and TI-of-TTL interface for ZX Spectrum and Timex TC computers,
+* compatible with M-397 and [TI-of-TTL](https://github.com/maciejgruszecki/TIofTTL) interface for ZX Spectrum and Timex TC computers,
 * PCB compliant with the Mini-ITX specification.
 
 More information can be found by visiting: [FDD35 rev.3 @ speccy.pl](https://www.speccy.pl/forum/index.php?topic=7166.0)
